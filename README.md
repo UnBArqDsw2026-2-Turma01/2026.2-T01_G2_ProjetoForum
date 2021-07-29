@@ -4,7 +4,7 @@ Repositório de documentação do projeto **Fórum**, desenvolvido pelo Grupo 02
 (Turma 01) na disciplina de Arquitetura e Desenho de Software (FGA0208) da
 Faculdade de Ciência e Tecnologia em Engenharias (FCTE-UnB).
 
-##  Sobre o projeto
+## ℹ️ Sobre o projeto
 
 O Fórum é uma plataforma de discussão e compartilhamento de conhecimento,
 inspirada no [TabNews](https://www.tabnews.com.br/), com foco em Design
@@ -12,6 +12,7 @@ Centrado no Usuário, Usabilidade e Experiência do Usuário. O objetivo é
 oferecer um ambiente simples, intuitivo e acessível para publicação de
 conteúdos, debates e interação entre membros da comunidade.
 
+## 👥 Membros da Equipe
 
 
 ## Membros da Equipe
@@ -32,10 +33,10 @@ conteúdos, debates e interação entre membros da comunidade.
 ## 📚 Documentação
 
 Toda a documentação do projeto (Design Sprint, artefatos generalistas,
-modelagem BPMN, cronograma e demais entregas) está publicada no site gerado
-com [docsify](https://docsify.js.org/) a partir da pasta [`docs/`](docs/).
+modelagem BPMN, cronograma e demais entregas) está publicada no site gerado com
+[docsify](https://docsify.js.org/) a partir da pasta [`docs/`](docs/).
 
-##  Tecnologia
+## 🛠️ Tecnologia
 
 A geração do site estático é realizada utilizando o
 [docsify](https://docsify.js.org/):
@@ -45,20 +46,22 @@ A geração do site estático é realizada utilizando o
 > your Markdown files and displays them as a website. To start using it, all
 > you need to do is create an index.html and deploy it on GitHub Pages.
 
-###  Instalando o docsify
+### ⚙️ Configurando o ambiente com mise
 
-Execute o comando:
+O projeto utiliza o [mise](https://mise.jdx.dev/) para gerenciar as versões
+das ferramentas (Node.js e pnpm). Após [instalar o mise](https://mise.jdx.dev/getting-started.html),
+execute na raiz do repositório:
 
 ```shell
-npm i docsify-cli -g
+mise install
 ```
 
-###  Executando localmente
+### ▶️ Executando localmente
 
 Para iniciar o site localmente, utilize o comando:
 
 ```shell
-docsify serve ./docs
+pnpm dlx docsify-cli serve ./docs
 ```
 
 O site ficará disponível em `http://localhost:3000`.
