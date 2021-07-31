@@ -17,18 +17,18 @@ conteúdos, debates e interação entre membros da comunidade.
 
 ## Membros da Equipe
 
-|                               Foto                               |                   Nome                   | Matrícula |                           GitHub                           |
-| :--------------------------------------------------------------: | :--------------------------------------: | :-------: | :--------------------------------------------------------: |
-|     <img src="https://github.com/arthurfernandesj.png" width="100">     |Arthur Fernandes Silva de Jesus     |  221022471 |         [@arthurfernandesj](https://github.com/arthurfernandesj)         |
-|      <img src="https://github.com/.png" width="100">      | Caio Alexandre Ornelas Silva  | 221007644 |           []()           |
-|       <img src="https://github.com/GiovanaFontesS.png" width="100">       |       Giovana De Souza Fontes        | 231038644 |             [@GiovanaFontesS](https://github.com/GiovanaFontesS)             |
-|  <img src="https://github.com/.png" width="100">    |        Guilherme Moura da Silva Neto         | 231012227 |       [@](https://github.com/)       |
-|  <img src="https://github.com/pratamz250.png" width="100">    |        Isaac Menezes Pereira         | 190088885 |       [@pratamz250](https://github.com/pratamz250)       |
-|    <img src="https://github.com/.png" width="100">    |        Leonardo Fachinello Bonetti         | 221022060 |       [@](https://github.com/)       |
-|  <img src="https://github.com/.png" width="100">    |       Luciano Alves do Brasil Schindel Machado         | 180126130 |       [@](https://github.com/)       |
-|  <img src="https://github.com/Pablo-R-L.png" width="100">    |       Pablo Rodrigues Lima         | 231029841 |       [@Pablo-R-L](https://github.com/Pablo-R-L)       |
-|  <img src="https://github.com/PedroRSR.png" width="100">    |       Pedro Ramos Sousa Reis         | 222031680 |       [@PedroRSR](https://github.com/PedroRSR)       |
-|  <img src="https://avatars.githubusercontent.com/u/113356974?v=4" width="100">    |       João Pedro Sampaio Maciel         | 211039528 |       [@jopesmp](https://github.com/jopesmp)       |
+| Foto                                                                          | Nome                                     | Matrícula | GitHub                                                   |
+|-------------------------------------------------------------------------------|------------------------------------------|-----------|----------------------------------------------------------|
+| <img src="https://github.com/arthurfernandesj.png" width="100">               | Arthur Fernandes Silva de Jesus          | 221022471 | [@arthurfernandesj](https://github.com/arthurfernandesj) |
+| <img src="https://github.com/bitterteriyaki.png" width="100">                 | Caio Alexandre Ornelas Silva             | 221007644 | [@bitterteriyaki](https://github.com/bitterteriyaki)     |
+| <img src="https://github.com/GiovanaFontesS.png" width="100">                 | Giovana De Souza Fontes                  | 231038644 | [@GiovanaFontesS](https://github.com/GiovanaFontesS)     |
+| <img src="https://github.com/.png" width="100">                               | Guilherme Moura da Silva Neto            | 231012227 | [@](https://github.com/)                                 |
+| <img src="https://github.com/pratamz250.png" width="100">                     | Isaac Menezes Pereira                    | 190088885 | [@pratamz250](https://github.com/pratamz250)             |
+| <img src="https://github.com/.png" width="100">                               | Leonardo Fachinello Bonetti              | 221022060 | [@](https://github.com/)                                 |
+| <img src="https://github.com/.png" width="100">                               | Luciano Alves do Brasil Schindel Machado | 180126130 | [@](https://github.com/)                                 |
+| <img src="https://github.com/Pablo-R-L.png" width="100">                      | Pablo Rodrigues Lima                     | 231029841 | [@Pablo-R-L](https://github.com/Pablo-R-L)               |
+| <img src="https://github.com/PedroRSR.png" width="100">                       | Pedro Ramos Sousa Reis                   | 222031680 | [@PedroRSR](https://github.com/PedroRSR)                 |
+| <img src="https://avatars.githubusercontent.com/u/113356974?v=4" width="100"> | João Pedro Sampaio Maciel                | 211039528 | [@jopesmp](https://github.com/jopesmp)                   |
 
 ## 📚 Documentação
 
