@@ -11,6 +11,7 @@
 | 22/1022471 | Arthur Fernandes Silva de Jesus |
 | 22/1007644 | Caio Alexandre Ornelas Silva    |
 | 23/1038644 | Giovana de Souza Fontes         |
+| 221022060  | Leonardo Fachinello Bonetti     |
 
 ## Sobre
 
