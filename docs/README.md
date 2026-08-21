@@ -9,6 +9,7 @@
 | -- | -- |
 | 22/1022471  | Arthur Fernandes Silva de Jesus |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 23/1038644  | Giovana de Souza Fontes |
 
 ## Sobre 
 O G2 — Fórum é uma plataforma de discussão e compartilhamento de conhecimento, desenvolvida no âmbito da disciplina de Arquitetura e Desenho de Software da Faculdade de Ciência e Tecnologia em Engenharias (FCTE-UnB). O projeto tem como foco o Design Centrado no Usuário, a Usabilidade e a Experiência do Usuário, buscando proporcionar um ambiente de interação simples, intuitivo e acessível para diferentes perfis de usuários.
