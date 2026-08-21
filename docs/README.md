@@ -5,10 +5,12 @@
 **Entrega**: 01<br>
 
 ## Alunos
+
 | Matrícula  | Aluno                           |
 | ---------- | ------------------------------- |
 | 22/1022471 | Arthur Fernandes Silva de Jesus |
 | 22/1007644 | Caio Alexandre Ornelas Silva    |
+| 23/1038644 | Giovana de Souza Fontes         |
 
 ## Sobre
 
