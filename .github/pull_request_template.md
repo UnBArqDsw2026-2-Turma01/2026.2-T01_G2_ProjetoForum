@@ -1,33 +1,27 @@
+## Descrição
 
-Describe the big picture of your changes here to communicate to the maintainers
-why we should accept this pull request. If it fixes a bug or resolves a feature
-request, be sure to link to that issue.
+Definir e documentar a arquitetura do projeto, apresentando a estrutura geral do sistema, seus principais componentes, responsabilidades e formas de comunicação entre eles.
 
-## Types of changes
+A alteração tem como objetivo estabelecer uma visão arquitetural clara e padronizada do sistema, facilitando o entendimento da solução pela equipe, a manutenção do código e a evolução futura do projeto.
 
-What types of changes does your code introduce to <repo_name>? _Put an `x` in
-the boxes that apply_
+## Tipos de alteração
 
-- [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to
-  not work as expected)
-- [ ] Documentation Update (if none of the other choices apply)
+* [ ] Correção de bug (alteração que corrige um problema sem modificar o comportamento esperado do sistema)
+* [ ] Nova funcionalidade (alteração que adiciona uma nova funcionalidade ao sistema)
+* [ ] Alteração que quebra compatibilidade (alteração que pode fazer funcionalidades existentes deixarem de funcionar conforme esperado)
+* [x] Atualização de documentação (alteração relacionada à documentação e à arquitetura do projeto)
 
 ## Checklist
 
-_Put an `x` in the boxes that apply. You can also fill these out after creating
-the PR. If you're unsure about any of them, don't hesitate to ask. We're here to
-help! This is simply a reminder of what we are going to look for before merging
-your code._
+* [ ] Li e compreendi o documento CONTRIBUTING.md.
+* [ ] A documentação necessária foi adicionada ou atualizada.
+* [ ] Os componentes e responsabilidades da arquitetura foram devidamente documentados.
+* [ ] Os diagramas arquiteturais necessários foram elaborados e adicionados ao projeto.
+* [ ] As decisões arquiteturais relevantes foram documentadas e justificadas.
+* [ ] Alterações dependentes foram identificadas e, quando necessário, integradas.
 
-- [ ] I have read the CONTRIBUTING.md doc.
-- [ ] I have added necessary documentation (if appropriate).
-- [ ] Any dependent changes have been merged and published in downstream
-  modules.
+## Comentários adicionais
 
-## Further comments
+A definição da arquitetura deverá considerar a estrutura atual do projeto, seus requisitos e as tecnologias utilizadas.
 
-If this is a relatively large or complex change, kick off the discussion by
-explaining why you chose the solution you did and what alternatives you
-considered, etc...
+A solução arquitetural será documentada de forma a apresentar os principais componentes do sistema, suas responsabilidades, dependências e comunicação. Também deverão ser registradas as decisões tomadas pela equipe e, quando aplicável, as alternativas consideradas e os motivos para a escolha da solução adotada.
