@@ -12,14 +12,16 @@ Centrado no Usuário, Usabilidade e Experiência do Usuário. O objetivo é
 oferecer um ambiente simples, intuitivo e acessível para publicação de
 conteúdos, debates e interação entre membros da comunidade.
 
-## 🧑‍🤝‍🧑 Equipe
 
-| Matrícula  | Aluno                           |
-| ---------- | ------------------------------- |
-| 22/1022471 | Arthur Fernandes Silva de Jesus |
-| 22/1007644 | Caio Alexandre Ornelas Silva    |
-| 23/1038644 | Giovana de Souza Fontes         |
-| 22/1022060 | Leonardo Fachinello Bonetti     |
+## Membros da Equipe
+
+|                               Foto                               |                   Nome                   | Matrícula |                           GitHub                           |
+| :--------------------------------------------------------------: | :--------------------------------------: | :-------: | :--------------------------------------------------------: |
+|     <img src="https://github.com/arthurfernandesj.png" width="100">     |Arthur Fernandes Silva de Jesus     |  221022471 |         [@arthurfernandesj](https://github.com/arthurfernandesj)         |
+|      <img src="https://github.com/.png" width="100">      | Caio Alexandre Ornelas Silva  | 221007644 |           [@](https://github.com/)           |
+|       <img src="https://github.com/GiovanaFontesS.png" width="100">       |       Giovana De Souza Fontes        | 231038644 |             [@GiovanaFontesS](https://github.com/GiovanaFontesS)             |
+|    <img src="https://github.com/.png" width="100">    |        Leonardo Fachinello Bonetti         | 221022060 |       [@](https://github.com/)       |
+
 
 ## 📚 Documentação
 
