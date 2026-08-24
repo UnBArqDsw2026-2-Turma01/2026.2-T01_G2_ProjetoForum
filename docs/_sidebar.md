@@ -1,55 +1,48 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](README.md)
+- [Início](README.md)
 
-- **Base**
+- **Projeto**
+  - [Escopo do Produto](Projeto/EscopoProduto.md)
+  - [Equipe & Subequipes](Projeto/Equipe.md)
+  - [Metodologia & Processo](Projeto/Metodologia.md)
+  - [Atas de Reunião](Projeto/Atas/README.md)
+    - [Ata 01 · Reunião Geral](Projeto/Atas/ata-01.md)
 
-  - [1. Desenho de Software](Base/1.Base.md)
+- **1. Desenho de Software (Base)**
+  - [1. Visão Geral do Módulo](Base/1.Base.md)
+  - [1.1. Relatórios](Base/Relatórios/1.1.Relatorios.md)
 
-    - [1.1. Design Sprint](Base/Relatórios/DesignSprint/1.1.DesignSprint.md)
+    - **1.1.1. SubEquipe_01**
+      - [Capa do Relatório](Base/Relatórios/1.1.1.SubEquipe_01/README.md)
+      - [1. Artefato Generalista](Base/Relatórios/1.1.1.SubEquipe_01/1.ArtefatoGeneralista.md)
+      - [2. NFR Framework](Base/Relatórios/1.1.1.SubEquipe_01/2.NFRFramework.md)
+      - [3. Engenharia Reversa](Base/Relatórios/1.1.1.SubEquipe_01/3.EngenhariaReversa.md)
+      - [4. Modelagem BPMN](Base/Relatórios/1.1.1.SubEquipe_01/4.BPMN.md)
+      - [5. IA Generativa](Base/Relatórios/1.1.1.SubEquipe_01/5.IAGenerativa.md)
+      - [6. Referências](Base/Relatórios/1.1.1.SubEquipe_01/6.Referencias.md)
 
-      - [1.1.1 Mapping](Base/Relatórios/DesignSprint/1.1.1.Mapping.md)
+    - **1.1.2. SubEquipe_02**
+      - [Capa do Relatório](Base/Relatórios/1.1.2.SubEquipe_02/README.md)
+      - [1. Artefato Generalista](Base/Relatórios/1.1.2.SubEquipe_02/1.ArtefatoGeneralista.md)
+      - [2. NFR Framework](Base/Relatórios/1.1.2.SubEquipe_02/2.NFRFramework.md)
+      - [3. Engenharia Reversa](Base/Relatórios/1.1.2.SubEquipe_02/3.EngenhariaReversa.md)
+      - [4. Modelagem BPMN](Base/Relatórios/1.1.2.SubEquipe_02/4.BPMN.md)
+      - [5. IA Generativa](Base/Relatórios/1.1.2.SubEquipe_02/5.IAGenerativa.md)
+      - [6. Referências](Base/Relatórios/1.1.2.SubEquipe_02/6.Referencias.md)
 
-      - [1.1.2. Sketch](Base/Relatórios/DesignSprint/1.1.2.Sketch.md)
+    - **1.1.3. SubEquipe_03**
+      - [Capa do Relatório](Base/Relatórios/1.1.3.SubEquipe_03/README.md)
+      - [1. Artefato Generalista](Base/Relatórios/1.1.3.SubEquipe_03/1.ArtefatoGeneralista.md)
+      - [2. NFR Framework](Base/Relatórios/1.1.3.SubEquipe_03/2.NFRFramework.md)
+      - [3. Engenharia Reversa](Base/Relatórios/1.1.3.SubEquipe_03/3.EngenhariaReversa.md)
+      - [4. Modelagem BPMN](Base/Relatórios/1.1.3.SubEquipe_03/4.BPMN.md)
+      - [5. IA Generativa](Base/Relatórios/1.1.3.SubEquipe_03/5.IAGenerativa.md)
+      - [6. Referências](Base/Relatórios/1.1.3.SubEquipe_03/6.Referencias.md)
 
-      - [1.1.3. Decide](Base/Relatórios/DesignSprint/1.1.3.Decide.md)
+  - [1.2. Participações](Base/1.2.ParticipacoesBase.md)
+  - [1.3. Iniciativas Extras](Base/1.3.IniciativasExtras.md)
 
-      - [1.1.4. Prototype](Base/Relatórios/DesignSprint/1.1.4.Prototype.md)
-
-      - [1.1.5. Test](Base/Relatórios/DesignSprint/1.1.5.Test.md)
-
-    - [1.2. Artefato Generalista](Base/1.2.ParticipacoesBase.md)
-
-      - [1.2.1. Rich Picture](Base/Relatórios/DesignSprint/1.2.1.RichPicture.md)
-
-      - [1.2.2. Glossário](Base/Relatórios/DesignSprint/1.2.2.glossario.md)
-
-      - [1.2.3. Léxico](Base/Relatórios/DesignSprint/1.2.3.Lexico.md)
-
-      - [1.2.4. Diagrama de Ishikawa](Base/Relatórios/DesignSprint/1.2.4.DiagramadeIshikawa.md)
-
-      - [1.2.5. 5W2H](Base/Relatórios/DesignSprint/1.2.5.5W2H.md)
-
-    - [1.3. Modelagem BPMN](Base/1.3.IniciativasExtras.md)
-
-      - [1.3.1. BPMN Kanban](Base/1.3.1.BPMN_Kanban.md)
-
-      - [1.3.2. BPMN do Software](Base/1.3.2.BPMN_Software.md)
-
-      - [1.3.3. BPMN do GitFlow](Base/1.3.3.BPMN_Gitflow.md)
-
-    - [1.4. Participações](Base/1.4.ParticipacoesBase.md)
-
-    - [1.5. Iniciativas Extras](Base/1.5.IniciativasExtras.md)
-
-      - [1.5.1. Cronograma](Base/1.5.1.Cronograma.md)
-
-      - [1.5.2. Disponibilidade](Base/1.5.2.Disponibilidade.md)
-
-      - [1.5.3. Reuniões e atas](Base/1.5.3.ReunioesAtas.md)
-
-      - [1.5.4. Conhecimentos da equipe](Base/1.5.4.Conhecimentos.md)
-
-      - [1.5.5. Manual da Marca](Base/1.5.5.Marca.md)
-
-      - [1.5.6. Ferramentas](Base/1.5.6.Ferramentas.md)
+- **Apoio**
+  - [Padrão de Assets & Imagens](assets/README.md)
+  - [Ferramentas](Apoio/Ferramentas.md)
