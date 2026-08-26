@@ -26,7 +26,7 @@ conteúdos, debates e interação entre membros da comunidade.
 |    <img src="https://github.com/.png" width="100">    |        Leonardo Fachinello Bonetti         | 221022060 |       [@](https://github.com/)       |
 |  <img src="https://github.com/.png" width="100">    |       Luciano Alves do Brasil Schindel Machado         | 180126130 |       [@](https://github.com/)       |
 |  <img src="https://github.com/.png" width="100">    |       Pablo Rodrigues Lima         | 231029841 |       [@](https://github.com/)       |
-|  <img src="https://github.com/.png" width="100">    |       Pedro Ramos Sousa Reis         | 222031680 |       [@](https://github.com/)       |
+|  <img src="https://github.com/PedroRSR.png" width="100">    |       Pedro Ramos Sousa Reis         | 222031680 |       [@PedroRSR](https://github.com/PedroRSR)       |
 |  <img src="https://github.com/.png" width="100">    |       João Pedro Sampaio Maciel         | 211039528 |       [@](https://github.com/)       |
 
 ## 📚 Documentação
