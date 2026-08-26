@@ -46,3 +46,6 @@
 - **Apoio**
   - [Padrão de Assets & Imagens](assets/README.md)
   - [Ferramentas](Apoio/Ferramentas.md)
+
+- **Atas** 
+  - [Ata 1](docs/Atas/ata-01)
