@@ -14,7 +14,7 @@
   - [1.1. Relatórios](Base/Relatórios/1.1.Relatorios.md)
 
     - **1.1.1. SubEquipe_01**
-      - [Capa do Relatório](Base/Relatórios/1.1.1.SubEquipe_01/README.md)
+      - [Capa do Relatório](Base/Relatórios/1.1.1.SubEquipe_01/1.1.1.SubEquipe_01.md)
       - [1. Artefato Generalista](Base/Relatórios/1.1.1.SubEquipe_01/1.ArtefatoGeneralista.md)
       - [2. NFR Framework](Base/Relatórios/1.1.1.SubEquipe_01/2.NFRFramework.md)
       - [3. Engenharia Reversa](Base/Relatórios/1.1.1.SubEquipe_01/3.EngenhariaReversa.md)
@@ -23,7 +23,7 @@
       - [6. Referências](Base/Relatórios/1.1.1.SubEquipe_01/6.Referencias.md)
 
     - **1.1.2. SubEquipe_02**
-      - [Capa do Relatório](Base/Relatórios/1.1.2.SubEquipe_02/README.md)
+      - [Capa do Relatório](Base/Relatórios/1.1.2.SubEquipe_02/1.1.2.SubEquipe_02.md)
       - [1. Artefato Generalista](Base/Relatórios/1.1.2.SubEquipe_02/1.ArtefatoGeneralista.md)
       - [2. NFR Framework](Base/Relatórios/1.1.2.SubEquipe_02/2.NFRFramework.md)
       - [3. Engenharia Reversa](Base/Relatórios/1.1.2.SubEquipe_02/3.EngenhariaReversa.md)
@@ -32,7 +32,7 @@
       - [6. Referências](Base/Relatórios/1.1.2.SubEquipe_02/6.Referencias.md)
 
     - **1.1.3. SubEquipe_03**
-      - [Capa do Relatório](Base/Relatórios/1.1.3.SubEquipe_03/README.md)
+      - [Capa do Relatório](Base/Relatórios/1.1.3.SubEquipe_03/1.1.3.SubEquipe_03.md)
       - [1. Artefato Generalista](Base/Relatórios/1.1.3.SubEquipe_03/1.ArtefatoGeneralista.md)
       - [2. NFR Framework](Base/Relatórios/1.1.3.SubEquipe_03/2.NFRFramework.md)
       - [3. Engenharia Reversa](Base/Relatórios/1.1.3.SubEquipe_03/3.EngenhariaReversa.md)
