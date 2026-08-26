@@ -12,7 +12,7 @@ Centrado no Usuário, Usabilidade e Experiência do Usuário. O objetivo é
 oferecer um ambiente simples, intuitivo e acessível para publicação de
 conteúdos, debates e interação entre membros da comunidade.
 
-##  Equipe
+
 
 ## Membros da Equipe
 
