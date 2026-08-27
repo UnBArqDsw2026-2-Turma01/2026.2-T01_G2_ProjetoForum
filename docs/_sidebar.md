@@ -5,14 +5,12 @@
 - **Projeto**
   - [Escopo do Produto](Projeto/EscopoProduto.md)
   - [Equipe & Subequipes](Projeto/Equipe.md)
-  - [Metodologia & Processo](Projeto/Metodologia.md)
   - [Atas de Reunião](Projeto/Atas/README.md)
     - [Ata 01 · Reunião Geral](Projeto/Atas/ata-01.md)
     - [Ata 02 - Divisão de tarefas](Projeto/Atas/ata-02.md)
 
 - **1. Desenho de Software (Base)**
   - [1. Visão Geral do Módulo](Base/1.Base.md)
-  - [1.1. Relatórios](Base/Relatórios/1.1.Relatorios.md)
 
     - **1.1.1. SubEquipe 01**
       - [Capa do Relatório](Base/Relatórios/1.1.1.SubEquipe_01/1.1.1.SubEquipe_01.md)
@@ -44,9 +42,3 @@
   - [1.3. Iniciativas Extras](Base/1.3.IniciativasExtras.md)
   - [1.4 Ferramentas](Apoio/Ferramentas.md)
 
-- **Apoio**
-  - [Padrão de Assets & Imagens](assets/README.md)
-  - [Ferramentas](Apoio/Ferramentas.md)
-
-- **Atas**
-  - [Ata 1](docs/Atas/ata-01)
