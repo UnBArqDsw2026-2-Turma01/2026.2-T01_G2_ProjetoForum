@@ -16,10 +16,25 @@
       name: 'Projeto Fórum',
       repo: 'https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01_G2_ProjetoForum',
       plantuml: { skin: 'default', renderSvgAsObject: true },
+      markdown: {
+        renderer: {
+          code: function (code, lang) {
+            if (lang === 'drawio')
+              if (window.drawioConverter)
+                return window.drawioConverter(code)
+              else
+                return `<div class='drawio-code'>${code}</div>`
+            else
+              return this.origin.code.apply(this, arguments);
+          },
+        },
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify-plantuml/dist/docsify-plantuml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-drawio/viewer.min.js"></script>
+    <script src='https://cdn.jsdelivr.net/npm/docsify-drawio/drawio.js'></script>
 </body>
 </html>
