@@ -1,10 +1,6 @@
-# Projeto Fórum
+# Projeto Fórum (Grupo 02)
 
 **Código da Disciplina**: FGA0208<br>
-
-**Número do Grupo**: 02<br>
-
-**Entrega**: 01<br>
 
 ## Alunos
 
@@ -20,7 +16,7 @@
 
 ## Sobre
 
-O **G2 — Fórum** é uma plataforma de discussão e compartilhamento de
+O **G2 - Fórum** é uma plataforma de discussão e compartilhamento de
 conhecimento, desenvolvida no âmbito da disciplina de Arquitetura e Desenho
 de Software da Faculdade de Ciência e Tecnologia em Engenharias (FCTE-UnB).
 
@@ -48,24 +44,20 @@ a primeira entrega.
 
 ## Há algo a ser executado?
 
-(  ) SIM
-
-( X ) NÃO
+- [ ] SIM
+- [x] NÃO
 
 ## Informações Complementares
 
 O projeto encontra-se na etapa de **levantamento e análise de requisitos**.
 O TabNews será utilizado como plataforma de referência para a realização da
 Engenharia Reversa e para a identificação de funcionalidades, padrões de
-interação, fluxos e necessidades relacionadas ao contexto de fóruns.
-
-A primeira entrega contempla a elaboração dos artefatos definidos para a
-disciplina, abrangendo **Artefatos Generalistas e NFR Framework, Engenharia
-Reversa e Modelagem BPMN, e IA Generativa**, além do registro das
-participações da equipe.
-
-As decisões relacionadas à solução proposta serão definidas a partir das
-análises realizadas, considerando os princípios de **Design Centrado no
+interação, fluxos e necessidades relacionadas ao contexto de fóruns. A primeira
+entrega contempla a elaboração dos artefatos definidos para a disciplina,
+abrangendo **Artefatos Generalistas e NFR Framework, Engenharia Reversa e
+Modelagem BPMN, e IA Generativa**, além do registro das participações da
+equipe. As decisões relacionadas à solução proposta serão definidas a partir
+das análises realizadas, considerando os princípios de **Design Centrado no
 Usuário (DCU), Usabilidade e Experiência do Usuário (UX)**.
 
 A documentação será atualizada progressivamente conforme o desenvolvimento
@@ -76,6 +68,6 @@ arquiteturais pelo grupo.
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição            | Autor            | Revisor |
-| ------ | ---------- | -------------------- | ---------------- | ------- |
+| Versão | Data       | Descrição            | Autor                                                   | Revisor |
+| ------ | ---------- | -------------------- | ------------------------------------------------------- | ------- |
 | 1.0    | 20/08/2026 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | ---     |

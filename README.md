@@ -4,7 +4,7 @@ Repositório de documentação do projeto **Fórum**, desenvolvido pelo Grupo 02
 (Turma 01) na disciplina de Arquitetura e Desenho de Software (FGA0208) da
 Faculdade de Ciência e Tecnologia em Engenharias (FCTE-UnB).
 
-##  Sobre o projeto
+## ℹ️ Sobre o projeto
 
 O Fórum é uma plataforma de discussão e compartilhamento de conhecimento,
 inspirada no [TabNews](https://www.tabnews.com.br/), com foco em Design
@@ -12,30 +12,31 @@ Centrado no Usuário, Usabilidade e Experiência do Usuário. O objetivo é
 oferecer um ambiente simples, intuitivo e acessível para publicação de
 conteúdos, debates e interação entre membros da comunidade.
 
+## 👥 Membros da Equipe
 
 
 ## Membros da Equipe
 
-|                               Foto                               |                   Nome                   | Matrícula |                           GitHub                           |
-| :--------------------------------------------------------------: | :--------------------------------------: | :-------: | :--------------------------------------------------------: |
-|     <img src="https://github.com/arthurfernandesj.png" width="100">     |Arthur Fernandes Silva de Jesus     |  221022471 |         [@arthurfernandesj](https://github.com/arthurfernandesj)         |
-|      <img src="https://github.com/.png" width="100">      | Caio Alexandre Ornelas Silva  | 221007644 |           []()           |
-|       <img src="https://github.com/GiovanaFontesS.png" width="100">       |       Giovana De Souza Fontes        | 231038644 |             [@GiovanaFontesS](https://github.com/GiovanaFontesS)             |
-|  <img src="https://github.com/.png" width="100">    |        Guilherme Moura da Silva Neto         | 231012227 |       [@](https://github.com/)       |
-|  <img src="https://github.com/.png" width="100">    |        Isaac Menezes Pereira         | 190088885 |       [@](https://github.com/)       |
-|    <img src="https://github.com/.png" width="100">    |        Leonardo Fachinello Bonetti         | 221022060 |       [@](https://github.com/)       |
-|  <img src="https://github.com/.png" width="100">    |       Luciano Alves do Brasil Schindel Machado         | 180126130 |       [@](https://github.com/)       |
-|  <img src="https://github.com/Pablo-R-L.png" width="100">    |       Pablo Rodrigues Lima         | 231029841 |       [@Pablo-R-L](https://github.com/Pablo-R-L)       |
-|  <img src="https://github.com/PedroRSR.png" width="100">    |       Pedro Ramos Sousa Reis         | 222031680 |       [@PedroRSR](https://github.com/PedroRSR)       |
-|  <img src="https://avatars.githubusercontent.com/u/113356974?v=4" width="100">    |       João Pedro Sampaio Maciel         | 211039528 |       [@jopesmp](https://github.com/jopesmp)       |
+| Foto                                                                          | Nome                                     | Matrícula | GitHub                                                   |
+|-------------------------------------------------------------------------------|------------------------------------------|-----------|----------------------------------------------------------|
+| <img src="https://github.com/arthurfernandesj.png" width="100">               | Arthur Fernandes Silva de Jesus          | 221022471 | [@arthurfernandesj](https://github.com/arthurfernandesj) |
+| <img src="https://github.com/bitterteriyaki.png" width="100">                 | Caio Alexandre Ornelas Silva             | 221007644 | [@bitterteriyaki](https://github.com/bitterteriyaki)     |
+| <img src="https://github.com/GiovanaFontesS.png" width="100">                 | Giovana De Souza Fontes                  | 231038644 | [@GiovanaFontesS](https://github.com/GiovanaFontesS)     |
+| <img src="https://github.com/.png" width="100">                               | Guilherme Moura da Silva Neto            | 231012227 | [@](https://github.com/)                                 |
+| <img src="https://github.com/pratamz250.png" width="100">                     | Isaac Menezes Pereira                    | 190088885 | [@pratamz250](https://github.com/pratamz250)             |
+| <img src="https://github.com/.png" width="100">                               | Leonardo Fachinello Bonetti              | 221022060 | [@](https://github.com/)                                 |
+| <img src="https://github.com/.png" width="100">                               | Luciano Alves do Brasil Schindel Machado | 180126130 | [@](https://github.com/)                                 |
+| <img src="https://github.com/Pablo-R-L.png" width="100">                      | Pablo Rodrigues Lima                     | 231029841 | [@Pablo-R-L](https://github.com/Pablo-R-L)               |
+| <img src="https://github.com/PedroRSR.png" width="100">                       | Pedro Ramos Sousa Reis                   | 222031680 | [@PedroRSR](https://github.com/PedroRSR)                 |
+| <img src="https://avatars.githubusercontent.com/u/113356974?v=4" width="100"> | João Pedro Sampaio Maciel                | 211039528 | [@jopesmp](https://github.com/jopesmp)                   |
 
 ## 📚 Documentação
 
 Toda a documentação do projeto (Design Sprint, artefatos generalistas,
-modelagem BPMN, cronograma e demais entregas) está publicada no site gerado
-com [docsify](https://docsify.js.org/) a partir da pasta [`docs/`](docs/).
+modelagem BPMN, cronograma e demais entregas) está publicada no site gerado com
+[docsify](https://docsify.js.org/) a partir da pasta [`docs/`](docs/).
 
-##  Tecnologia
+## 🛠️ Tecnologia
 
 A geração do site estático é realizada utilizando o
 [docsify](https://docsify.js.org/):
@@ -45,20 +46,22 @@ A geração do site estático é realizada utilizando o
 > your Markdown files and displays them as a website. To start using it, all
 > you need to do is create an index.html and deploy it on GitHub Pages.
 
-###  Instalando o docsify
+### ⚙️ Configurando o ambiente com mise
 
-Execute o comando:
+O projeto utiliza o [mise](https://mise.jdx.dev/) para gerenciar as versões
+das ferramentas (Node.js e pnpm). Após [instalar o mise](https://mise.jdx.dev/getting-started.html),
+execute na raiz do repositório:
 
 ```shell
-npm i docsify-cli -g
+mise install
 ```
 
-###  Executando localmente
+### ▶️ Executando localmente
 
 Para iniciar o site localmente, utilize o comando:
 
 ```shell
-docsify serve ./docs
+pnpm dlx docsify-cli serve ./docs
 ```
 
 O site ficará disponível em `http://localhost:3000`.
