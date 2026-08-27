@@ -8,6 +8,7 @@
   - [Metodologia & Processo](Projeto/Metodologia.md)
   - [Atas de Reunião](Projeto/Atas/README.md)
     - [Ata 01 · Reunião Geral](Projeto/Atas/ata-01.md)
+    - [Ata 02 - Divisão de tarefas](Projeto/Atas/ata-02.md)
 
 - **1. Desenho de Software (Base)**
   - [1. Visão Geral do Módulo](Base/1.Base.md)
