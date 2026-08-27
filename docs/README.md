@@ -15,6 +15,8 @@
 | 23/1038644 | Giovana de Souza Fontes         |
 | 22/1022060 | Leonardo Fachinello Bonetti     |
 | 22/2031680 | Pedro Ramos Sousa Reis          |
+| 21/1039528 | João Pedro Sampaio Maciel       |
+
 
 ## Sobre
 
