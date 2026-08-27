@@ -14,14 +14,14 @@ juntamente com suas respectivas finalidades no desenvolvimento.
 
 | Logo | Ferramenta | Finalidade |
 | :---: | :---: | :--- |
-| ![Logo do BPMN.io](../images/bpmnio.png) | BPMN.io | Criação e edição de diagramas BPMN utilizados na modelagem dos processos do projeto. |
-| ![Logo do ChatGPT](../images/chatgpt.png) | ChatGPT | Apoio à pesquisa, elaboração e revisão de conteúdos, esclarecimento de dúvidas e utilização de Inteligência Artificial Generativa nas atividades do projeto. |
-| ![Logo do GitHub](../images/github.png) | GitHub | Versionamento do projeto, gerenciamento do código e armazenamento dos artefatos e da documentação. |
-| ![Logo do Google Docs](../images/gdocs.png) | Google Docs | Elaboração colaborativa e revisão inicial de documentos e conteúdos do projeto. |
-| ![Logo do Miro](../images/miro.png) | Miro | Criação colaborativa de diagramas, mapas e representações visuais utilizadas durante a análise do projeto. |
-| ![Logo do Teams](../images/teams.png) | Microsoft Teams | Realização de reuniões e comunicação entre os integrantes da equipe. |
-| ![Logo do VS Code](../images/vscode.png) | Visual Studio Code | Criação, edição e organização dos arquivos Markdown e demais arquivos da documentação. |
-| ![Logo do WhatsApp](../images/whatsapp.png) | WhatsApp | Comunicação rápida entre os integrantes e compartilhamento de avisos e demandas. |
+| ![Logo do BPMN.io](../assets/images/bpmnio.png) | BPMN.io | Criação e edição de diagramas BPMN utilizados na modelagem dos processos do projeto. |
+| ![Logo do ChatGPT](../assets/images/chatgpt.png) | ChatGPT | Apoio à pesquisa, elaboração e revisão de conteúdos, esclarecimento de dúvidas e utilização de Inteligência Artificial Generativa nas atividades do projeto. |
+| ![Logo do GitHub](../assets/images/github.png) | GitHub | Versionamento do projeto, gerenciamento do código e armazenamento dos artefatos e da documentação. |
+| ![Logo do Google Docs](../assets/images/gdocs.png) | Google Docs | Elaboração colaborativa e revisão inicial de documentos e conteúdos do projeto. |
+| ![Logo do Miro](../assets/images/miro.png) | Miro | Criação colaborativa de diagramas, mapas e representações visuais utilizadas durante a análise do projeto. |
+| ![Logo do Teams](../assets/images/teams.png) | Microsoft Teams | Realização de reuniões e comunicação entre os integrantes da equipe. |
+| ![Logo do VS Code](../assets/images/vscode.png) | Visual Studio Code | Criação, edição e organização dos arquivos Markdown e demais arquivos da documentação. |
+| ![Logo do WhatsApp](../assets/images/whatsapp.png) | WhatsApp | Comunicação rápida entre os integrantes e compartilhamento de avisos e demandas. |
 
 <p style="text-align: center; font-size: 10pt;">Autor: Arthur Fernandes (2026).</p>
 
