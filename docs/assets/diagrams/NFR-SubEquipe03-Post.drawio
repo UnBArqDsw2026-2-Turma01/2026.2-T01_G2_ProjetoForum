@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net" agent="claude-code" version="24.7.0">
+  <diagram id="sig-usabilidade-post" name="SIG - Usabilidade (Página de Post)">
+    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- Root softgoal -->
+        <mxCell id="G0" value="USABILIDADE&#10;(Página de Post)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="938" y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+
+        <!-- Softgoals -->
+        <mxCell id="SG1" value="SG01&#10;Legibilidade&#10;do Conteúdo" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2" value="SG02&#10;Clareza dos&#10;Metadados" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG3" value="SG03&#10;Facilidade de&#10;Navegação" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="900" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG4" value="SG04&#10;Feedback de&#10;Carregamento" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG5" value="SG05&#10;Facilidade de&#10;Interação" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6" value="SG06&#10;Consistência&#10;Visual" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1815" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+
+        <!-- Operationalizations -->
+        <mxCell id="O1" value="O1&#10;Renderização&#10;de Markdown/código" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="0" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O2" value="O2&#10;Tipografia e&#10;espaçamento legíveis" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3" value="O3&#10;Cabeçalho com autor,&#10;data e tags" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O4" value="O4&#10;Contadores de voto&#10;e comentário visíveis" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O5" value="O5&#10;Botão Voltar /&#10;Breadcrumb para o feed" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O6" value="O6&#10;Âncora/scroll&#10;para comentários" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="990" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O7" value="O7&#10;Skeleton / spinner&#10;de carregamento" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O8" value="O8&#10;Página de erro&#10;(post não encontrado)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O9" value="O9&#10;Botões de votar,&#10;comentar e responder" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O10" value="O10&#10;Componentes visuais&#10;padronizados do Fórum" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- SG -> G0 decomposition edges (leaves point to the node above) -->
+        <mxCell id="e-SG1-G0" value="decompõe" style="endArrow=open;dashed=1;html=1;fontSize=10;" edge="1" parent="1" source="SG1" target="G0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-SG2-G0" value="decompõe" style="endArrow=open;dashed=1;html=1;fontSize=10;" edge="1" parent="1" source="SG2" target="G0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-SG3-G0" value="decompõe" style="endArrow=open;dashed=1;html=1;fontSize=10;" edge="1" parent="1" source="SG3" target="G0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-SG4-G0" value="decompõe" style="endArrow=open;dashed=1;html=1;fontSize=10;" edge="1" parent="1" source="SG4" target="G0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-SG5-G0" value="decompõe" style="endArrow=open;dashed=1;html=1;fontSize=10;" edge="1" parent="1" source="SG5" target="G0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-SG6-G0" value="decompõe" style="endArrow=open;dashed=1;html=1;fontSize=10;" edge="1" parent="1" source="SG6" target="G0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- O -> SG contribution edges (leaves point to the node above) -->
+        <mxCell id="e-O1-SG1" value="++" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O1" target="SG1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O2-SG1" value="++" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O2" target="SG1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O3-SG2" value="++" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O3" target="SG2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O4-SG2" value="+" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O4" target="SG2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O5-SG3" value="++" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O5" target="SG3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O6-SG3" value="+" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O6" target="SG3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O7-SG4" value="++" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O7" target="SG4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O8-SG4" value="+" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O8" target="SG4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O9-SG5" value="++" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O9" target="SG5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-O10-SG6" value="++" style="endArrow=open;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O10" target="SG6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Conflict edge (O1 also points up to SG4) -->
+        <mxCell id="e-O1-SG4" value="--" style="endArrow=open;dashed=1;html=1;fontSize=12;fontStyle=1;" edge="1" parent="1" source="O1" target="SG4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="370" />
+              <mxPoint x="1380" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
