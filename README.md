@@ -27,7 +27,7 @@ conteúdos, debates e interação entre membros da comunidade.
 |  <img src="https://github.com/.png" width="100">    |       Luciano Alves do Brasil Schindel Machado         | 180126130 |       [@](https://github.com/)       |
 |  <img src="https://github.com/Pablo-R-L.png" width="100">    |       Pablo Rodrigues Lima         | 231029841 |       [@Pablo-R-L](https://github.com/Pablo-R-L)       |
 |  <img src="https://github.com/PedroRSR.png" width="100">    |       Pedro Ramos Sousa Reis         | 222031680 |       [@PedroRSR](https://github.com/PedroRSR)       |
-|  <img src="https://github.com/.png" width="100">    |       João Pedro Sampaio Maciel         | 211039528 |       [@](https://github.com/)       |
+|  <img src="https://avatars.githubusercontent.com/u/113356974?v=4">    |       João Pedro Sampaio Maciel         | 211039528 |       [@](https://github.com/jopesmp)       |
 
 ## 📚 Documentação
 
