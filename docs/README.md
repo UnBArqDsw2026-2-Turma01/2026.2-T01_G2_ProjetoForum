@@ -12,6 +12,9 @@
 | 22/1022060 | Leonardo Fachinello Bonetti     |
 | 22/2031680 | Pedro Ramos Sousa Reis          |
 | 21/1039528 | João Pedro Sampaio Maciel       |
+| 19/0088885 | Isaac Menezes Pereira           |
+| 23/1029841 | Pablo Rodrigues Lima            |
+| 22/2031680 | Pedro Ramos Sousa Reis          |
 
 
 ## Sobre
@@ -70,3 +73,4 @@ arquiteturais pelo grupo.
 | Versão |    Data    | Descrição            |                        Autor(es)                        | Revisor(es) | Detalhe da Revisão                                                                         |
 | :----: | :--------: | :------------------- | :-----------------------------------------------------: | :---------: | :----------------------------------------------------------------------------------------- |
 |   1.0  | 20/08/2026 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) |     [Giovana Fontes](https://github.com/GiovanaFontesS)     | Criação do documento, com organização e estruturação inicial das informações apresentadas. |
+| 1.1  | 28/08/26 | Ajuste de informações | [Isaac Menezes](https://github.com/pratamz250) | [Arthur Fernandes](https://github.com/arthurfernandesj) | Revisar se as matrículas do sub grupo 2 estão corretas |
