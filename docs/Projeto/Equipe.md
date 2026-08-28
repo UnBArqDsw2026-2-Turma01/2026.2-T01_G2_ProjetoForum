@@ -35,13 +35,14 @@ A equipe foi organizada em subequipes com o objetivo de distribuir as atividades
 | 23/1029841 | Pablo Rodrigues Lima   | [@Pablo-R-L](https://github.com/Pablo-R-L)   | Integrante |
 | 22/2031680 | Pedro Ramos Sousa Reis | [@PedroRSR](https://github.com/PedroRSR)     | Integrante |
 
-### SubEquipe 03
 
-A composição da **SubEquipe 03** ainda está em definição.
+## SubEquipe 03
 
-| Matrícula | Aluno     | GitHub | Papel     |
-| --------- | --------- | ------ | --------- |
-| —         | A definir | —      | A definir |
+| Matrícula | Aluno                         | GitHub                                     | Papel      |
+| :-------: | :---------------------------- | :----------------------------------------- | :--------- |
+| 231012227 | Guilherme Moura da Silva Neto | ---                                        | Integrante |
+| 221022060 | Leonardo Fachinello Bonetti   | ---                                        | Integrante |
+| 231029841 | Pablo Rodrigues Lima          | [@Pablo-R-L](https://github.com/Pablo-R-L) | Integrante |
 
 
 ## Informações Complementares
@@ -56,4 +57,4 @@ A composição das subequipes poderá ser atualizada conforme a organização do
 
 | Versão |    Data    | Descrição                                   |                        Autor(es)                        | Revisor(es) | Detalhe da Revisão                                                                                                                                     |
 | :----: | :--------: | :------------------------------------------ | :-----------------------------------------------------: | :---------: | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1.0  | 27/08/2026 | Criação do documento de Equipe e Subequipes | [Arthur Fernandes](https://github.com/arthurfernandesj) |     ---     | Criação da documentação da equipe, incluindo a relação dos integrantes, informações acadêmicas, perfis do GitHub e organização inicial das subequipes. |
+|   1.0  | 27/08/2026 | Criação do documento de Equipe e Subequipes | [Arthur Fernandes](https://github.com/arthurfernandesj) |    [Arthur Fernandes](https://github.com/arthurfernandesj)     | Criação da documentação da equipe, incluindo a relação dos integrantes, informações acadêmicas, perfis do GitHub e organização inicial das subequipes. |
