@@ -38,11 +38,12 @@ A equipe foi organizada em subequipes com o objetivo de distribuir as atividades
 
 ## SubEquipe 03
 
-| Matrícula | Aluno                         | GitHub                                     | Papel      |
-| :-------: | :---------------------------- | :----------------------------------------- | :--------- |
-| 231012227 | Guilherme Moura da Silva Neto | ---                                        | Integrante |
-| 221022060 | Leonardo Fachinello Bonetti   | ---                                        | Integrante |
-| 231029841 | Pablo Rodrigues Lima          | [@Pablo-R-L](https://github.com/Pablo-R-L) | Integrante |
+| Matrícula | Aluno                         | GitHub                                                | Papel      |
+| :-------: | :---------------------------- | :----------------------------------------------------- | :--------- |
+| 22/1007644 | Caio Alexandre Ornelas Silva  | [@bitterteriyaki](https://github.com/bitterteriyaki)   | Integrante |
+| 231012227 | Guilherme Moura da Silva Neto | ---                                                    | Integrante |
+| 221022060 | Leonardo Fachinello Bonetti   | ---                                                    | Integrante |
+| 231029841 | Pablo Rodrigues Lima          | [@Pablo-R-L](https://github.com/Pablo-R-L)             | Integrante |
 
 
 ## Informações Complementares
