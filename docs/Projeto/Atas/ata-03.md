@@ -33,4 +33,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhe da Revisão |
 | :---: | :---: | :--- | :---: | :---: | :--- |
-| 1.0 | 27/08/2026 | Discussão de conflitos | [Isaac Menezes](https://github.com/pratamz250) | --- | |
+| 1.0 | 27/08/2026 | Discussão de conflitos | [Isaac Menezes](https://github.com/pratamz250) | [Arthur Fernandes](https://github.com/arthurfernandesj)  | |

@@ -53,4 +53,4 @@ juntamente com suas respectivas finalidades no desenvolvimento.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhe da Revisão |
 | :---: | :---: | :--- | :---: | :---: | :---: |
-| 1.0 | 20/08/2026 | Criação da página de Ferramentas | [Arthur Fernandes](https://github.com/arthurfernandesj)| --- | Dcoumento criado e adicionado as devidas ferramentas |
+| 1.0 | 20/08/2026 | Criação da página de Ferramentas | [Arthur Fernandes](https://github.com/arthurfernandesj)| [Isaac Menezes](https://github.com/pratamz250) | Dcoumento criado e adicionado as devidas ferramentas |

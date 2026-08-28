@@ -47,4 +47,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhe da Revisão |
 | :---: | :---: | :--- | :---: | :---: | :--- |
-| 1.0 | 26/08/2026 | Criação da página da Ata 01 Geral | [Giovana Fontes](https://github.com/GiovanaFontesS) | --- | Documento criado e estruturado para apresentar principais discuções e considerações da reunião 01 da equipe |
+| 1.0 | 26/08/2026 | Criação da página da Ata 01 Geral | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | Documento criado e estruturado para apresentar principais discuções e considerações da reunião 01 da equipe |

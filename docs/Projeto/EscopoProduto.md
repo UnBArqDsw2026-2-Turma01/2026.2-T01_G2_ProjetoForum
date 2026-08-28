@@ -69,3 +69,10 @@ O produto será considerado adequado quando:
 - As funcionalidades principais forem facilmente identificáveis;
 - Os usuários conseguirem criar e consultar discussões;
 - Os princípios de DCU e Usabilidade forem evidenciados no projeto.
+
+-- 
+## Histórico de versões
+| Versão |    Data    | Descrição            |                        Autor(es)                        | Revisor(es) | Detalhe da Revisão                                                                         |
+| :----: | :--------: | :------------------- | :-----------------------------------------------------: | :---------: | :----------------------------------------------------------------------------------------- |
+|   1.0  | 20/08/2026 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) |     [Giovana Fontes](https://github.com/GiovanaFontesS)     | Criação do documento, com organização e estruturação inicial das informações apresentadas. |
+|   1.1  | 27/08/2026 | Ajuste no histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |     [Giovana Fontes](https://github.com/GiovanaFontesS)     | Ajuste no histórico de versão adicionando o detalhamento da revisão. |

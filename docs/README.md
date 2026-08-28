@@ -67,7 +67,6 @@ arquiteturais pelo grupo.
 ---
 
 ## Histórico de versões
-
-| Versão | Data       | Descrição            | Autor                                                   | Revisor |
-| ------ | ---------- | -------------------- | ------------------------------------------------------- | ------- |
-| 1.0    | 20/08/2026 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | ---     |
+| Versão |    Data    | Descrição            |                        Autor(es)                        | Revisor(es) | Detalhe da Revisão                                                                         |
+| :----: | :--------: | :------------------- | :-----------------------------------------------------: | :---------: | :----------------------------------------------------------------------------------------- |
+|   1.0  | 20/08/2026 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) |     [Giovana Fontes](https://github.com/GiovanaFontesS)     | Criação do documento, com organização e estruturação inicial das informações apresentadas. |
