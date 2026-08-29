@@ -23,6 +23,6 @@ As seguintes referências foram usadas pela sub equipe 2 durante todas as entreg
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhe da Revisão |
 | :---: | :---: | :--- | :---: | :---: | :--- |
-| 1.0 | 25/08/2026 | Criação do documento | [Isaac Menezes](https://github.com/pratamz250) | --- | --- |
-| 1.1 | 28/08/2026 | Revisor de documento | [Pablo Rodrigues](https://github.com/Pablo-R-L) | --- | --- |
-| 1.2 | 28/08/2026 | Revisor de documento | [Pedro Ramos](https://github.com/PedroRSR) | --- | --- |
+| 1.0 | 25/08/2026 | Criação do documento | [Isaac Menezes](https://github.com/pratamz250) | [Pedro Ramos](https://github.com/PedroRSR) | Documento inicial com a listagem das referências utilizadas pela subequipe 2 e estrutura base do arquivo. |
+| 1.1 | 28/08/2026 | Revisão do documento | [Pablo Rodrigues](https://github.com/Pablo-R-L) | [Isaac Menezes](https://github.com/pratamz250) | Ajuste de formatação, padronização das referências e revisão da clareza dos links e descrições. |
+| 1.2 | 28/08/2026 | Revisão e alteração do documento | [Pedro Ramos](https://github.com/PedroRSR) | [Pablo Rodrigues](https://github.com/Pablo-R-L) | Revisão do documento, atualização de links para adicionar o site da disciplina. |
